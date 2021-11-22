@@ -18,7 +18,7 @@ body{
     place-items: center;
     font-size: 15px;
 }
-.conteiner{
+.container{
     max-width: 920px;
     display: flex;
 }
